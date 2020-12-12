@@ -1,0 +1,149 @@
+* {
+    font-family: "Helvética", sans-serif;
+    line-height: 1.6;
+}
+
+a {
+    color: #413f40;
+    transition: color 0.2s ease-in-out, background 0.2s ease-in-out;
+    text-decoration: none !important;
+    color: #413f40;
+    transition: color 0.2s ease-in-out, background 0.2s ease-in-out;
+    text-decoration: none !important;
+    color: #337ab7;
+    text-decoration: none;
+}
+
+.navbar-dark{
+	position: relative;
+	background: #007bff;
+    height: 50px;
+    width: 1366px;
+    box-shadow: 0 1px 3px 10px rgba(0, 0, 0, 0.4);
+}
+
+.perfil{
+	position: absolute;
+	margin-top: 0;
+	margin-left: 1199px;
+	height: 40px;
+}
+
+.mensagem_perfil{
+	font-style: bold;
+	font-size: 21px;
+	margin-right: 25px;
+	margin-top: -6;
+	color: white;
+	font-family: "Segoe UI", Roboto;
+}
+
+.logo{
+	margin-top: -2.5px
+}
+
+.desenvolvimento{
+	margin-left: 1080px;
+	font-size: 10;
+}
+
+.imagem0{
+
+}
+
+.mensagem1{
+	position: absolute; 
+	font-size: 35px;
+	margin-left: 65px;
+	margin-top: 60px;
+	font-family: "Segoe UI", Roboto;
+}
+
+.mensagem2{
+	position: absolute;
+	font-size: 20px;
+	margin-top: 130px;
+	margin-left: 65px;
+	font-family: "Segoe UI", Roboto;
+	line-height: 32px;
+}
+
+.mensagem3{
+	position: absolute;
+	font-size: 35px;
+	margin-left: 1030px;
+	margin-top: 67px;
+	font-family: "Segoe UI", Roboto;
+}
+/* oi */
+
+.bt:hover {
+    background: #e61d2b;
+    color: #ffdc00;
+}
+
+.bt.bt-medium {
+	position: absolute;
+    padding: 14px 30px;
+    font-size: 24px;
+}
+
+
+
+.bt.bt-red {
+	position: absolute;
+    background: #1C1C1C;
+    width: 300px;
+    margin-left: 1000px;
+    margin-top: 114px;
+}
+
+.bt.bt-red:hover {
+    color: #ffffff;
+    background: #111111;
+    filter: brightness(90%);
+}
+
+.bt.bt-blue {
+	position: absolute;
+    background: #007bff;
+    width: 300px;
+    margin-left: 1000px;
+    margin-top: 180px;
+}
+
+.bt.bt-blue:hover {
+    color: #ffffff;
+    background: #1C86EE;
+    filter: brightness(90%);
+}
+
+    
+
+/* formatação dos 2 blocos */
+
+.bt{
+	position: relative;
+	letter-spacing: 4px;
+	font-stretch: ultra-condensed;
+    color: #ffffff;
+    background: #1C1C1C;
+    display: inline-block;
+    border: 0;	
+    padding: 9px;
+    font-weight: lighter;
+    text-align: center;
+    text-transform: uppercase;
+    transition: color 0.2s ease-in-out, background 0.2s ease-in-out;
+}
+
+.redes{
+	margin-top: 378.0px;
+	margin-left: 0px;
+	height: 40px;
+}
+
+
+
+
+

@@ -1,0 +1,122 @@
+/* posicao, tamanho da tabela fininha la hehe */
+*{
+  background-color: #E8E8E8;
+}
+
+.celula{
+  position: fixed;
+  width: 40%;
+  height: 100%;
+  background-color: #007bff;
+  border: 0px;
+}
+
+div .alinhamento_texto{
+  position: relative;
+  margin-top: 260px;
+  margin-left: 55px;
+  background-color: #007bff;
+}
+
+.texto1{
+  color: #E8E8E8;
+  background-color: #007bff;
+}
+
+.texto2{
+  color: #E8E8E8;
+  position: absolute;
+  background-color: #007bff;
+  margin-top: 20px;
+  margin-left: 35px;
+}
+
+.login{
+  background-color: white;
+  font-weight: 500;
+  border: none;
+  color: #007bff;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;  
+  margin-top: 90px;
+  margin-left: 140px;
+  padding: 1px;
+  width: 130px;
+  height: 35px;
+  font-size: 20px;
+
+}
+
+div .form{
+  position: fixed;
+  width: 300px;
+  margin-left: 815px;
+  margin-top: 300px;
+  height: 100px;
+}
+
+/* logo do icone */
+.logousuario{
+    position: fixed;  
+    margin-top: -75px;
+    margin-left: 115px;
+    height: 65px;
+    margin-bottom: 10px
+}
+
+/* placeholder */
+::-webkit-input-placeholder  { 
+  font-style: italic;
+}
+ 
+input:not([type="checkbox"]){
+  font-size: 20px;
+  margin-top: 3px; 
+  width: 100%;   
+  border: 3px;
+  padding: 10px;
+  margin-left: 0px; 
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+ 
+  -webkit-box-shadow: 7px 7px 7px 1px rgba(168, 168, 168, 0.6) inset;
+ 
+  -webkit-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+
+}
+
+
+/* botos cadastro/limpar */
+div .botao{
+  position: fixed;
+  margin-top: 40px;
+  margin-left: 55px;
+}
+
+div .botao1{
+  
+}
+
+div.botao2{
+  margin-top: -38px;
+  margin-left: 110px;
+}
+
+.texto{
+  margin-left: 7px;
+  position: fixed;
+  margin-top: 10px;
+  font-color: black;
+}
+
+/* imagem do canto esquerdo */
+.imagem{
+    position: fixed;
+    margin-top: 0px;
+    height: 768px;
+    width: 45%;
+    -webkit-border-radius: 3px;
+}

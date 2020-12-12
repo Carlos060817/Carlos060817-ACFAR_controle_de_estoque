@@ -1,0 +1,49 @@
+div .letras{
+    margin-top: 10px;
+    line-height: 3.0;
+    color: black;
+}
+
+
+select:not([type="checkbox"]){
+    position: relative;
+    width: 200px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    margin-left: 20px;
+
+    -webkit-box-shadow: 7px 7px 7px 0px rgba(168, 168, 168, 0.6) inset;
+
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+
+input:not([type="checkbox"]){
+    border: 3px;
+    width: 250px;
+    height: 30px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    margin-left: 20px;
+
+    -webkit-box-shadow: 7px 7px 7px 6px rgba(168, 168, 168, 0.6) inset;
+
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+
+th .ultimo{
+    margin-right: 1000px;
+}
+
+.bg-primary{
+    color: white;
+}
+
+.col-sm{
+    color:white;
+}
+
+.table-success{
+    font-size: 20px;
+}
